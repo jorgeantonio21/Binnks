@@ -1,0 +1,2 @@
+# Binnks
+A crypto currency
